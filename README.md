@@ -1,6 +1,6 @@
 # SD WebUI Forge - Anima Detail Enhancer
 
-This is a port of the [ComfyUI-Anima-Enhancer](https://github.com/AdamNizol/ComfyUI-Anima-Enhancer/) extension for **Stable Diffusion WebUI Forge**. **ported using AI**
+This is a port of the [ComfyUI-Anima-Enhancer](https://github.com/AdamNizol/ComfyUI-Anima-Enhancer/) extension for **Stable Diffusion WebUI Forge**. **ported using AI and uploaded using AI** All credits go to the original creator/s
 
 ## Features
 - Enhances fine detail and structural coherence on Anima models.
